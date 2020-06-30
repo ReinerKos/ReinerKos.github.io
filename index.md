@@ -15,5 +15,8 @@ Wort41 Wort42  Wort43 Wort44 Wort45
 
 > Autor des Beitrags: ReinerKos
 
+<img src="http://www.lukad.com/wp-content/uploads/2017/02/sap-logo-350x350.jpg"/> 
+
+
 
 
