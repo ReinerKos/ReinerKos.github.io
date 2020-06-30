@@ -13,7 +13,7 @@ Wort41 Wort42  Wort43 Wort44 Wort45
 * Stichpunkt4
 * Stichpunkt5
 
-> Autor ReinerKos
+> Autor des Beitrags: ReinerKos
 
 
 
